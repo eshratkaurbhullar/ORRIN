@@ -37,7 +37,7 @@ const mediaData = [
     id: "cowboy-bebop",
     title: "Cowboy Bebop",
     type: "anime",
-    poster: "https://www.shumishop.com.au/cdn/shop/products/MX5255-cowboy-beebop-color-blox.jpg?v=1642132266",
+    poster: "https://m.media-amazon.com/images/M/MV5BM2VhZjk2MWMtZjc2OC00YzA4LWI0NzAtZGQ1YjVkOTk5YzVlXkEyXkFqcGc@._V1_.jpg",
     background: "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/98388-Cowboy_Bebop.jpg",
     year: "1998",
     director: "Shinichirō Watanabe",
@@ -2008,5 +2008,6 @@ const mediaData = [
       "A vibrant documentary capturing the legendary 1969 Woodstock music festival — its performances, counterculture, and impact on a generation."
   }
 ];
+
 
 export default mediaData;
