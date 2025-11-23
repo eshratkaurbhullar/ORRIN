@@ -168,31 +168,6 @@
       },
       "username": "Bongo",
       "id": 6
-    },
-    {
-      "email": "eshratkaurb@gmail.com",
-      "password": "eshrat1234",
-      "fullName": "eshrat",
-      "firstName": "eshrat",
-      "lastName": "",
-      "dateOfBirth": "2006-09-18",
-      "gender": "female",
-      "location": "",
-      "profile": {
-        "bio": "",
-        "profilePicture": null
-      },
-      "preferences": {
-        "startPreference": "films",
-        "genres": [
-          "Action & Adventure"
-        ],
-        "additionalInterests": [
-          "Reading"
-        ]
-      },
-      "username": "eshrat",
-      "id": 7
     }
   ],
   "profileStats": [
