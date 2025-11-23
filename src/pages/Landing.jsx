@@ -16,7 +16,7 @@ const postersRow1 = [
 ];
 
 const postersRow2 = [
-  "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22802_p_v10_ak.jpg" ,
+  "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22802_p_v10_ak.jpg",
   "https://image.tmdb.org/t/p/original/m2qG7sOqhRCnKziyC72LQbzxnaU.jpg",
   "https://image.tmdb.org/t/p/original/7PFoyRv9dXn9Npv52RmqQenjEX5.jpg",
   "https://m.media-amazon.com/images/M/MV5BYzU2MWQ5NGQtYmNlMC00ZjJkLWJmODItZDM5MDM3YmUyMWJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -26,7 +26,6 @@ const postersRow2 = [
   "https://m.media-amazon.com/images/I/61eyyyGXMKL.jpg",
   "https://www.tallengestore.com/cdn/shop/products/PeakyBlinders-ThomasShelby-GarrisonBombing-NetflixTVShow-ArtPoster_a29a5be9-9611-43d9-b415-18655f60c629.jpg?v=1619864667",
   "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_FMjpg_UX1000_.jpg",
-
 ];
 
 export default function Landing() {
@@ -36,7 +35,7 @@ export default function Landing() {
       <section className="relative h-screen w-full">
         <video
           className="absolute top-0 left-0 w-full h-full object-cover"
-          src="/background.mp4"
+          src="https://res.cloudinary.com/dyz3onqxt/video/upload/v1763934139/background_ti2kqh.mp4"
           autoPlay
           loop
           muted
@@ -64,13 +63,12 @@ export default function Landing() {
             >
               Learn More
             </a>
-              <a
-                href="/login?redirect=/profile"
-                className="px-6 py-3 rounded-full bg-[#076452] text-white font-semibold hover:bg-gray-700 transition"
-              >
+            <a
+              href="/login?redirect=/profile"
+              className="px-6 py-3 rounded-full bg-[#076452] text-white font-semibold hover:bg-gray-700 transition"
+            >
               Get Started →
             </a>
-
           </div>
         </div>
       </section>
@@ -85,12 +83,12 @@ export default function Landing() {
           movies, shows, anime, and documentaries tailored to your mood.
         </p>
         <p className="max-w-4xl mx-auto text-gray-300 text-lg leading-relaxed">
-          Whether you want personalized recommendations, a simple way to cut through
-          endless choices, or even a smart companion that adapts to your mood—Orrin
-          makes movie night effortless. You can explore curated genres, track what
-          you've watched, and uncover hidden gems, all while joining a growing
-          community of explorers who share your taste. No clutter, no noise—just
-          guidance toward your next favorite story.
+          Whether you want personalized recommendations, a simple way to cut
+          through endless choices, or even a smart companion that adapts to your
+          mood—Orrin makes movie night effortless. You can explore curated
+          genres, track what you've watched, and uncover hidden gems, all while
+          joining a growing community of explorers who share your taste. No
+          clutter, no noise—just guidance toward your next favorite story.
         </p>
       </section>
 
