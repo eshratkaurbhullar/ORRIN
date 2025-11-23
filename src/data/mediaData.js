@@ -37,7 +37,7 @@ const mediaData = [
     id: "cowboy-bebop",
     title: "Cowboy Bebop",
     type: "anime",
-    poster: "https://m.media-amazon.com/images/M/MV5BM2VhZjk2MWMtZjc2OC00YzA4LWI0NzAtZGQ1YjVkOTk5YzVlXkEyXkFqcGc@._V1_.jpg",
+    poster: "https://i.pinimg.com/564x/74/dd/73/74dd73367f85f0da49e04dec5efaf4da.jpg",
     background: "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/98388-Cowboy_Bebop.jpg",
     year: "1998",
     director: "Shinichirō Watanabe",
@@ -1504,7 +1504,7 @@ const mediaData = [
     type: "anime",
     showOnHome: false,
     allowExplore: true,
-    poster: "https://www.shumishop.com.au/cdn/shop/products/MX5255-cowboy-beebop-color-blox.jpg?v=1642132266",
+    poster: "https://i.pinimg.com/564x/74/dd/73/74dd73367f85f0da49e04dec5efaf4da.jpg",
     background: "https://hdwallpaperim.com/wp-content/uploads/2017/08/22/98388-Cowboy_Bebop.jpg",
     year: "1998",
     director: "Shinichirō Watanabe",
@@ -2011,3 +2011,4 @@ const mediaData = [
 
 
 export default mediaData;
+
