@@ -1,0 +1,595 @@
+{
+  "users": [
+    {
+      "email": "esha0142.becse24@chitkara.edu.in",
+      "password": "1234",
+      "fullName": "ESHA",
+      "firstName": "ESHA",
+      "lastName": "",
+      "dateOfBirth": "2006-11-09",
+      "gender": "female",
+      "location": "",
+      "profile": {
+        "bio": "Living Life",
+        "profilePicture": null
+      },
+      "preferences": {
+        "startPreference": "shows",
+        "genres": [
+          "Documentary",
+          "History"
+        ],
+        "additionalInterests": [
+          "Reading"
+        ]
+      },
+      "username": "ESHA",
+      "id": 1
+    },
+    {
+      "email": "drishti0146.becse24@chitkara.edu.in",
+      "password": "1234",
+      "fullName": "ESHA",
+      "firstName": "ESHA",
+      "lastName": "",
+      "dateOfBirth": "2006-11-14",
+      "gender": "",
+      "location": "",
+      "profile": {
+        "bio": "",
+        "profilePicture": null
+      },
+      "preferences": {
+        "startPreference": "anime",
+        "genres": [
+          "Action & Adventure"
+        ],
+        "additionalInterests": [
+          "Music"
+        ]
+      },
+      "username": "ESHA",
+      "id": 2
+    },
+    {
+      "email": "iyra0367.becse24@chitkara.edu.in",
+      "password": "1234",
+      "fullName": "iyra",
+      "firstName": "iyra",
+      "lastName": "",
+      "dateOfBirth": "2005-11-10",
+      "gender": "female",
+      "location": "",
+      "profile": {
+        "bio": "HI",
+        "profilePicture": null
+      },
+      "preferences": {
+        "startPreference": "anime",
+        "genres": [
+          "Action & Adventure",
+          "Documentary"
+        ],
+        "additionalInterests": [
+          "Cooking",
+          "Fashion"
+        ]
+      },
+      "username": "iyra",
+      "id": 3
+    },
+    {
+      "email": "vaibhavi12@gmail.com",
+      "password": "1234",
+      "fullName": "vaibahvi",
+      "firstName": "vaibahvi",
+      "lastName": "",
+      "dateOfBirth": "2006-11-10",
+      "gender": "female",
+      "location": "",
+      "profile": {
+        "bio": "ih",
+        "profilePicture": null
+      },
+      "preferences": {
+        "startPreference": "films",
+        "genres": [
+          "Action & Adventure",
+          "Musical",
+          "Soap"
+        ],
+        "additionalInterests": [
+          "Gaming",
+          "Fashion"
+        ]
+      },
+      "username": "vaibahvi",
+      "id": 4
+    },
+    {
+      "email": "drishti0142.becse24@chitkara.edu.in",
+      "password": "1234",
+      "fullName": "Drishti",
+      "firstName": "Drishti",
+      "lastName": "",
+      "dateOfBirth": "2006-11-29",
+      "gender": "female",
+      "location": "",
+      "profile": {
+        "bio": "hi helloo",
+        "profilePicture": null
+      },
+      "preferences": {
+        "startPreference": "shows",
+        "genres": [
+          "Horror",
+          "Romance"
+        ],
+        "additionalInterests": [
+          "Photography",
+          "Reading"
+        ]
+      },
+      "username": "Drishti",
+      "id": 5,
+      "settings": {
+        "emailNotifications": true,
+        "pushNotifications": false,
+        "darkMode": true,
+        "language": "en"
+      }
+    },
+    {
+      "email": "drishtisharma2911@gmail.com",
+      "password": "123456",
+      "fullName": "Bongo",
+      "firstName": "Bongo",
+      "lastName": "",
+      "dateOfBirth": "2000-11-09",
+      "gender": "female",
+      "location": "",
+      "profile": {
+        "bio": "Bad",
+        "profilePicture": null
+      },
+      "preferences": {
+        "startPreference": "anime",
+        "genres": [
+          "Animation",
+          "Crime",
+          "Romance",
+          "Horror",
+          "Thriller",
+          "Action & Adventure"
+        ],
+        "additionalInterests": [
+          "Fashion"
+        ]
+      },
+      "username": "Bongo",
+      "id": 6
+    },
+    {
+      "email": "eshratkaurb@gmail.com",
+      "password": "eshrat1234",
+      "fullName": "eshrat",
+      "firstName": "eshrat",
+      "lastName": "",
+      "dateOfBirth": "2006-09-18",
+      "gender": "female",
+      "location": "",
+      "profile": {
+        "bio": "",
+        "profilePicture": null
+      },
+      "preferences": {
+        "startPreference": "films",
+        "genres": [
+          "Action & Adventure"
+        ],
+        "additionalInterests": [
+          "Reading"
+        ]
+      },
+      "username": "eshrat",
+      "id": 7
+    }
+  ],
+  "profileStats": [
+    {
+      "id": 1,
+      "social": {
+        "followers": 0,
+        "following": 0,
+        "comments": 0
+      },
+      "stats": {
+        "tvTime": "0h 0m",
+        "episodes": 0,
+        "films": 0,
+        "shows": 0,
+        "showsStarted": 0,
+        "anime": 0,
+        "documentaries": 0,
+        "lastActive": "Active via app"
+      }
+    },
+    {
+      "id": 5,
+      "social": {
+        "followers": 0,
+        "following": 0,
+        "comments": 0
+      },
+      "stats": {
+        "tvTime": "0h 0m",
+        "episodes": 0,
+        "films": 0,
+        "shows": 0,
+        "showsStarted": 0,
+        "anime": 0,
+        "documentaries": 0,
+        "lastActive": "Active via app"
+      }
+    },
+    {
+      "id": 6,
+      "social": {
+        "followers": 0,
+        "following": 0,
+        "comments": 0
+      },
+      "stats": {
+        "tvTime": "0h 0m",
+        "episodes": 0,
+        "films": 0,
+        "shows": 0,
+        "showsStarted": 0,
+        "anime": 0,
+        "documentaries": 0,
+        "lastActive": "Active via app"
+      }
+    },
+    {
+      "id": 7,
+      "social": {
+        "following": 0,
+        "followers": 0,
+        "comments": 0
+      },
+      "stats": {
+        "tvTime": "4h 50m",
+        "episodes": 1,
+        "films": 2,
+        "shows": 0,
+        "showsStarted": 0,
+        "anime": 1,
+        "documentaries": 0,
+        "lastActive": "Active via app"
+      }
+    }
+  ],
+  "watched": [
+    {
+      "userId": 7,
+      "mediaId": "kill-bill",
+      "mediaType": "film",
+      "episodes": 0,
+      "runtimeMinutes": 111,
+      "id": 1
+    },
+    {
+      "userId": 7,
+      "mediaId": "dune",
+      "mediaType": "film",
+      "episodes": 0,
+      "runtimeMinutes": 155,
+      "id": 2
+    },
+    {
+      "userId": 7,
+      "mediaId": "cowboy-bebop",
+      "mediaType": "anime",
+      "episodes": 1,
+      "runtimeMinutes": 24,
+      "id": 3
+    }
+  ],
+  "reviews": [],
+  "postsApi": [
+    {
+      "id": 1762837915989,
+      "userId": 1,
+      "title": "hi",
+      "contentPreview": "this is me",
+      "likesCount": 1,
+      "commentsCount": 0,
+      "time": "Just now",
+      "logo": null
+    },
+    {
+      "id": 1762839010241,
+      "userId": 1,
+      "title": "MATHS",
+      "contentPreview": "BORING",
+      "likesCount": 2,
+      "commentsCount": 1,
+      "time": "Just now",
+      "logo": null
+    },
+    {
+      "id": 1763811594599,
+      "userId": 5,
+      "title": "hi",
+      "contentPreview": "hello",
+      "likesCount": 2,
+      "commentsCount": 3,
+      "time": "Just now",
+      "logo": null
+    },
+    {
+      "id": 1763883792504,
+      "userId": 6,
+      "title": "this is my first post",
+      "contentPreview": "nice meeting u guys",
+      "likesCount": 1,
+      "commentsCount": 1,
+      "time": "Just now",
+      "logo": null
+    },
+    {
+      "id": 1763885602758,
+      "userId": 5,
+      "title": "Animes are OG",
+      "contentPreview": "I just watched this anime named Perfect blue and my mind was Blown",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "time": "Just now",
+      "logo": null
+    },
+    {
+      "id": 1763885637550,
+      "userId": 5,
+      "title": "Series Recommendation",
+      "contentPreview": "Can anyone recommend me a series absed on the thriller genre ",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "time": "Just now",
+      "logo": null
+    },
+    {
+      "id": 1763885658386,
+      "userId": 5,
+      "title": "HI",
+      "contentPreview": "this is my second post",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "time": "Just now",
+      "logo": null
+    }
+  ],
+  "likes": [
+    {
+      "userId": 3,
+      "postId": 1762837915989,
+      "id": 1
+    },
+    {
+      "userId": 5,
+      "postId": 1762839010241,
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "postId": 1762837915989,
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "postId": 1763811594599,
+      "id": 4
+    },
+    {
+      "userId": 6,
+      "postId": 1763811594599,
+      "id": 5
+    },
+    {
+      "userId": 6,
+      "postId": 1762839010241,
+      "id": 6
+    },
+    {
+      "userId": 5,
+      "postId": 1763883792504,
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1762839010241,
+      "userId": 1,
+      "content": "hi",
+      "time": "Just now",
+      "id": 1
+    },
+    {
+      "postId": 1763811594599,
+      "userId": 5,
+      "content": "hello",
+      "time": "Just now",
+      "id": 2
+    },
+    {
+      "postId": 1763811594599,
+      "userId": 1,
+      "content": "great",
+      "time": "Just now",
+      "id": 3
+    },
+    {
+      "postId": 1763811594599,
+      "userId": 6,
+      "content": "good job",
+      "time": "Just now",
+      "id": 4
+    },
+    {
+      "postId": 1763883792504,
+      "userId": 5,
+      "content": "Nice to meet u too",
+      "time": "Just now",
+      "id": 5
+    }
+  ],
+  "followers": [],
+  "following": [
+    {
+      "userId": 4,
+      "followingId": "raksha",
+      "username": "raksha",
+      "avatarUrl": "/src/assets/LOGO.png",
+      "id": "7wyDlIL"
+    },
+    {
+      "userId": 3,
+      "followingId": 1,
+      "username": "ESHA",
+      "avatarUrl": "/src/assets/LOGO.png",
+      "id": "PduC1P7"
+    },
+    {
+      "userId": 5,
+      "followingId": 1,
+      "username": "ESHA",
+      "avatarUrl": "/src/assets/LOGO.png",
+      "id": "O_3TSio"
+    },
+    {
+      "userId": 6,
+      "followingId": 1,
+      "username": "ESHA",
+      "avatarUrl": "/src/assets/LOGO.png",
+      "id": "dJ0eizL"
+    },
+    {
+      "userId": 5,
+      "followingId": 6,
+      "username": "Bongo",
+      "avatarUrl": "/src/assets/LOGO.png",
+      "id": "WFhamia"
+    }
+  ],
+  "media": [
+    {
+      "id": 1,
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/ca4af7fb6e19a86e6ecffa246f9cb22af11e39cedc9236a468bc8f043676df96.jpg",
+      "title": "Kill Bill: Vol. 1 (JSON Server)",
+      "mediaType": "films",
+      "year": "2003",
+      "director": "Quentin Tarantino",
+      "tagline": "HERE COMES THE BRIDE.",
+      "description": "Fetched via JSON Server...",
+      "backdropUrl": "https://wallpapercat.com/w/full/5/5/5/312261-1920x1080-desktop-full-hd-kill-bill-wallpaper-image.jpg",
+      "posterUrl": "https://m.media-amazon.com/images/S/pv-target-images/ca4af7fb6e19a86e6ecffa246f9cb22af11e39cedc9236a468bc8f043676df96.jpg",
+      "starring": "Uma Thurman, Lucy Liu",
+      "releaseDate": "Oct 10, 2003",
+      "runtime": "1h 51m",
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1XrdgIBct_4ZdJyJi1I4RvMXQP3QlpJihbJ7hKBRmWQJdjE-",
+      "title": "Generic Movie (JSON Server)",
+      "mediaType": "films",
+      "year": "2024",
+      "director": "JSON Director",
+      "tagline": "Generic tagline.",
+      "description": "Generic description for ID 2.",
+      "backdropUrl": "https://placehold.co/1000x500/224488/FFF?text=JSON+Backdrop+2",
+      "posterUrl": "https://placehold.co/400x600/224488/FFF?text=JSON+Poster+2",
+      "starring": "Actor A, Actor B",
+      "releaseDate": "Feb 1, 2024",
+      "runtime": "1h 40m",
+      "country": "JSON Land"
+    },
+    {
+      "id": 3,
+      "img": "https://m.media-amazon.com/images/I/713kiC-8JhL._UF1000,1000_QL80_.jpg",
+      "title": "Generic Movie 3",
+      "year": "2010"
+    },
+    {
+      "id": 4,
+      "img": "https://m.media-amazon.com/images/M/MV5BMGE3MDZhNmMtMmUxZS00MDJmLTgxYmQtOGU4ODU0Y2JmNDI1XkEyXkFqcGc@._V1_.jpg",
+      "title": "Generic Movie 4",
+      "year": "2019"
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcAm909dP_6YtTBBpmhtwj9-LJgXf10pDZP9naWwsPLNufY5Ab",
+      "title": "Generic Movie 5",
+      "year": "2005"
+    },
+    {
+      "id": 6,
+      "img": "https://images-cdn.ubuy.co.in/64730bee6e862458b77e732a-dune-movie-poster-cast-montage-timothee.jpg",
+      "title": "Generic Movie 6",
+      "year": "2021"
+    },
+    {
+      "id": 7,
+      "img": "https://www.shumishop.com.au/cdn/shop/products/MX5255-cowboy-beebop-color-blox.jpg?v=1642132266",
+      "title": "Generic Anime 7",
+      "year": "1998"
+    },
+    {
+      "id": 8,
+      "img": "https://m.media-amazon.com/images/M/MV5BZGIxNjliZjktMDhhOS00MGI3LTg5NGQtYzQxOWRkMzJjNDMwXkEyXkFqcGc@._V1_.jpg",
+      "title": "Generic Movie 8",
+      "year": "1999"
+    },
+    {
+      "id": 9,
+      "img": "https://images-cdn.ubuy.co.in/633feba61f18003ec96de030-aodyow-akira-movie-poster-us-version.jpg",
+      "title": "Generic Anime 9",
+      "year": "1988"
+    },
+    {
+      "id": 10,
+      "img": "https://image.tmdb.org/t/p/original/wwt3HgxspH65msWspi3PDABU834.jpg",
+      "title": "Generic Movie 10",
+      "year": "2014"
+    },
+    {
+      "id": 11,
+      "img": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/05/10153411/seven-samurai-poster-scaled.jpeg",
+      "title": "Generic Movie 11",
+      "year": "1954"
+    },
+    {
+      "id": 12,
+      "img": "https://m.media-amazon.com/images/M/MV5BMWUyOGQ5ZDItY2FiNC00ZDQ5LWI4ZjUtOTM3ZjNiNTNlNDJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "title": "Generic Show 12",
+      "year": "2013"
+    },
+    {
+      "id": 13,
+      "img": "https://m.media-amazon.com/images/M/MV5BMzAwNDIzMzEtZDZkNC00ZDQ4LTk3ZDMtZjVhMTU2YzgzZTZiXkEyXkFqcGc@._V1_.jpg",
+      "title": "Generic Show 13",
+      "year": "2009"
+    },
+    {
+      "id": 14,
+      "img": "https://i.pinimg.com/564x/90/28/9d/90289dbcabdf26e7b658ef678dfe89d1.jpg",
+      "title": "Generic Anime 14",
+      "year": "2011"
+    },
+    {
+      "id": 15,
+      "img": "https://images-cdn.ubuy.co.in/68b10a3f8c2ef67c650cfa16-pop-culture-graphics-neon-genesis.jpg",
+      "title": "Generic Anime 15",
+      "year": "1995"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+
+@import "tailwindcss";
+
+
+/* Global overrides */
+body {
+  font-family: "Raleway", sans-serif; /* Apply Raleway globally */
+  color: #ffffff;
+  background-color: #000000;
+}
+
+/* Optional: hide scrollbars */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Custom colors */
+:root {
+  --orrin-green: #0A3622; /* your chosen green */
+}
+
+/* Buttons using custom green */
+.btn-accent {
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  font-weight: 600;
+  transition: all .2s ease;
+  background-color: var(--orrin-green);
+  color: "#000224";
+}
+
+.btn-accent:hover {
+  filter: brightness(1.1);
+}
+
+/* Text and background utilities using custom green */
+.text-accent {
+  color: var(--orrin-green);
+}
+
+.bg-accent {
+  background-color: var(--orrin-green);
+}
+
+.henny-penny-regular {
+  font-family: "Henny Penny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.raleway-light {
+  font-family: "Raleway", sans-serif;
+  font-weight: 300; /* Light */
+  font-style: normal;
+}
+
+.raleway-regular {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+.raleway-bold {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700; /* Bold */
+  font-style: normal;
+}
+
+.raleway-italic {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400; /* Regular */
+  font-style: italic;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+@keyframes marquee-reverse {
+  0% { transform: translateX(-50%); }
+  100% { transform: translateX(0); }
+}
+.animate-marquee {
+  animation: marquee 20s linear infinite;
+}
+.animate-marquee-reverse {
+  animation: marquee-reverse 20s linear infinite;
+}
+
+/* Shimmer animation moved from tailwind.config.js */
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+.animate-shimmer { animation: shimmer 2s infinite; }

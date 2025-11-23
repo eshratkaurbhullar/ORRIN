@@ -1,0 +1,12 @@
+/* App-wide custom styles */
+
+/* Smooth link transitions */
+a {
+  transition: color 0.2s ease, background 0.2s ease;
+}
+
+/* Example hover for nav chips */
+.nav-chip:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+}
